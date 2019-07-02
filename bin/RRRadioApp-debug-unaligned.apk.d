@@ -1,0 +1,21 @@
+/Users/vico/Workspace/WatermarkRadio/android/bin/RRRadioApp-debug-unaligned.apk : \
+/Users/vico/Workspace/WatermarkRadio/android/bin/RRRadioApp.ap_ \
+/Users/vico/Workspace/WatermarkRadio/android/bin/classes.dex \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/bin/classes.jar \
+/Users/vico/Workspace/adt-bundle-mac-x86_64-20131030/sdk/tools/support/annotations.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/bolts-android-1.1.4.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/SITMarkJNIHelper-0.5.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/Parse-1.8.2.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/aacdecoder-android-0.8.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/SITMarkAudioAnnotationAlgoManWrapper-1.2.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/google-play-services.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/android-support-v4.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/AlgorithmManager.jar \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/armeabi/libaacdecoder.so \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/armeabi/libSITMarkAudioAnnotation.so \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/armeabi-v7a/libaacdecoder.so \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/armeabi-v7a/libSITMarkAudioAnnotation.so \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/mips/libaacdecoder.so \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/mips/libSITMarkAudioAnnotation.so \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/x86/libaacdecoder.so \
+/Users/vico/Workspace/WatermarkRadio/android/libs/appwerk/libs/x86/libSITMarkAudioAnnotation.so \

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Appwerk Radio Test</string>
+	<string name="notif_name">Notification</string>
+	<string name="welcome_msg">Welcome to the Appwerk Radio</string>
+	<string name="help">Help</string>
+	<string name="quit">Quit</string>
+	<string name="about">About</string>
+	<string name="hello_world">Good Bye</string>
+</resources>

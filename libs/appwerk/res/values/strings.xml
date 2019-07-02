@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="radio_like_url"><![CDATA[http://radioscreen.org/i-like-this-song]]></string>
+	<string name="rec_upload_url"><![CDATA[http://radioscreen.org/rec-upload]]></string>
+	
+	<string name="snapshot_upload_url"><![CDATA[http://radioscreen.org/snapshot-upload]]></string>
+	<string name="track_url"><![CDATA[http://radioscreen.org/trckrj]]></string>
+	
+	<string name="ad_url"><![CDATA[http://radioscreen.org/ads]]></string>
+	
+	<string name="radio_config_rid">radioscreen</string>
+	<!-- <string name="radio_config_rid">baden_189</string> -->
+	<!-- <string name="radio_config_rid">radio_runge_120</string> -->
+	<!-- <string name="radio_config_rid">Test_FM</string> -->
+
+<!--
+	<string name="parse_application_id">GAvYkyW3P8v0ZXTXiYMTsfeD1tKwEyUHvjVyWpnN</string>
+	<string name="parse_client_key">MuqycJMuKZWcuKh0a8LDMMakDWWsYWSgsZXlCyJt</string>
+-->
+
+	<string name="parse_application_id">PJPwEYmSx7GfyzqrtC6Fli7yCVNPg1isE4eJZhFq</string>
+	<string name="parse_client_key">f8N6qikL7f3I0IrAbPPcjfwOCKiBTAFqCl0AWozE</string>
+
+	<string name="radio_config_url"><![CDATA[http://radioscreen.org/load-radio-config]]></string>
+	<string name="comment_url"><![CDATA[http://radioscreen.org/comment]]></string>
+
+	<string name="rss_url"><![CDATA[http://radioscreen.org/rss]]></string>
+
+	<!-- <string name="social_url"><![CDATA[http://radioscreen.org/AppService/RSService01.php?action=get-social-messages&stationid=]]></string> -->
+	<string name="social_url"><![CDATA[http://radioscreen.org/social]]></string>
+	
+	<string name="itunes_url"><![CDATA[https://itunes.apple.com/search?term=]]></string>
+	<string name="gtunes_url"><![CDATA[https://play.google.com/store/search?c=music&q=]]></string>
+	
+	<string name="new_watermark_detected_url"><![CDATA[http://radioscreen.org/AppService/RSSParsePush.php?arabellaMuc&pushType=silentPush&addVisible=true]]></string>
+	<string name="guess_ad_is_over_url"><![CDATA[http://radioscreen.org/AppService/RSSParsePush.php?addVisible=false&pushType=silent]]></string>
+	
+	<string name="detect_message_length">12</string>
+	<string name="detect_min_freq">2000</string>
+	<string name="detect_max_freq">10000</string>
+	<string name="detect_ecc_mode">1</string>
+	<string name="detect_redundancy">2</string>
+	
+	<string name="app_name">de.appwerk.radio.lib</string>
+	
+	<string name="aac_player_service_name">AACPlayerService</string>
+	<string name="dac_detect_service_name">DacDetectService</string>
+	<string name="media_player_service_name">MediaPlayerService</string>
+	<string name="mic_service_name">MicService</string>
+	
+	<string name="start_sitmark">Start Sitmark 2</string>
+	<string name="stop_sitmark">Stop Sitmark 2</string>
+	
+	<string name="stop_stream">Stop Stream</string>
+
+	<string name="read_metadata">Read metadata</string>
+	<string name="read_preferences">Read preferences</string>
+	
+	<string name="channels">Channels</string>
+	<string name="sitmark2">SITMark 2</string>
+	<string name="features">Features</string>
+	
+	<string name="view3">View 3</string>
+	<string name="view4">View 4</string>
+	<string name="view5">View 5</string>
+	
+	<string name="take_snapshot">Take Snapshot</string>
+	<string name="send_snapshot">Send Snapshot</string>
+
+	<string name="like_this_song">I like this Song</string>
+	
+	<string name="reading_meta">Reading meta...</string>
+	<string name="detecting_marks">Detecting marks...</string>
+	
+	<string name="start_mic">Start that Microphone</string>
+	<string name="stop_mic">Stop that Microphone</string>
+	
+	<string name="send_rec">Send Record</string>
+
+	<color name="black">#000000</color>
+
+</resources>

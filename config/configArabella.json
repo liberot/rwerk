@@ -1,0 +1,204 @@
+{
+	"formats":
+	[
+		{	"title":"Arabella-Webradio",
+			"subtitle":"Der Livestream aus dem Studio",
+			"stream":"http://rs26.stream24.net:80/stream",
+			"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg",
+			"bgimage":"http://appwerk.com/RadioWerk/ArabellaMUC/bg.jpg",
+			"bgimageBlur":{ "radius":2, "saturationDeltaFactor":1.0, "tintColor":"33333370" },
+			"table-cell-display":{
+				"bgcolor":"FFFFFF0F",
+				"frameColor":"00000005",
+				"separatorColor":"ffffff20",
+				"titleColor":"ffffffb0",
+				"labelColor":"fffffff0"
+			},
+			"table-cells":[
+				{	"class":"RWDateTimeCell",
+					"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg"
+				},
+				{	"class":"RWRSSCell",
+					"title":"NEWS",
+					"url":"http://www.radioarabella.de/rss"
+				},
+				{	"class":"RWNowPlayingCell",
+					"display":"first"
+				},
+
+				{	"class":"RWNowPlayingRatingCell",
+					"label":"Bewerte diesen Beitrag:",
+					"display":"last"
+				},
+				{	"class":"RWWebLinkCell",
+					"display":"first",
+					"title":"aktuelle Blitzer",
+					"url":"http://www.radioarabella.de/blitzer"
+				},
+				{	"class":"RWWebLinkCell",
+					"display":"mid",
+					"title":"Arabella auf facebook",
+					"url":"http://m.facebook.com/radioarabellamuenchen"
+				},
+				{	"class":"RWWebLinkCell",
+					"display":"mid",
+					"title":"mehr auf RadioArabella.de",
+					"url":"http://www.radioarabella.de"
+				}
+			]
+		},
+		{	"title":"Arabella-Austropop",
+			"subtitle":"Musik aus Österreich",
+			"stream":"http://rs26.stream24.net:8000/stream",
+			"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg",
+			"bgimage":"http://appwerk.com/RadioWerk/ArabellaMUC/austro/bg.jpg",
+			"bgimageBlur":{ "radius":1, "saturationDeltaFactor":1.0, "tintColor":"33333370" },
+			"table-cell-display":{
+				"bgcolor":"5FA07E55",
+				"frameColor":"00000005",
+				"separatorColor":"ffffff20",
+				"titleColor":"ffffffb0",
+				"labelColor":"fffffff0"
+			},
+			"table-cells":[
+				{	"class":"RWDateTimeCell",
+					"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg"
+				},
+				{	"class":"RWNowPlayingCell",
+					"display":"first"
+				},
+				{	"class":"RWNowPlayingRatingCell",
+					"label":"Bewerte diesen Beitrag:",
+					"display":"last"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"aktuelle Blitzer",
+					"url":"http://www.radioarabella.de/blitzer"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"Arabella auf facebook",
+					"url":"http://m.facebook.com/radioarabellamuenchen"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"mehr auf RadioArabella.de",
+					"url":"http://www.radioarabella.de"
+				}
+			]
+		},{	"title":"Herzflimmern",
+			"subtitle":"Soft Pop und sanfte Kuschel-Klassiker",
+			"stream":"http://rs26.stream24.net:8100/stream",
+			"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg",
+			"bgimage":"http://appwerk.com/RadioWerk/ArabellaMUC/herz/bg.jpg",
+			"bgimageBlur":{ "radius":1, "saturationDeltaFactor":1.0, "tintColor":"33333370" },
+			"table-cell-display":{
+				"bgcolor":"E9050466",
+				"frameColor":"00000005",
+				"separatorColor":"ffffff20",
+				"titleColor":"ffffffb0",
+				"labelColor":"fffffff0"
+			},
+			"table-cells":[
+				{	"class":"RWDateTimeCell",
+					"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg"
+				},
+				{	"class":"RWNowPlayingCell",
+					"display":"first"
+				},
+				{	"class":"RWNowPlayingRatingCell",
+					"label":"Bewerte diesen Beitrag:",
+					"display":"last"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"aktuelle Blitzer",
+					"url":"http://www.radioarabella.de/blitzer"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"Arabella auf facebook",
+					"url":"http://m.facebook.com/radioarabellamuenchen"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"mehr auf RadioArabella.de",
+					"url":"http://www.radioarabella.de"
+				}
+			]
+		},{	"title":"Arabella-Classic Rock",
+			"subtitle":"Legenden des Rock",
+			"stream":"http://rs6.stream24.net:8000/stream",
+			"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg",
+			"bgimage":"http://appwerk.com/RadioWerk/ArabellaMUC/rock/bg.jpg",
+			"bgimageBlur":{ "radius":10, "saturationDeltaFactor":1.0, "tintColor":"33333370" },
+			"table-cell-display":{
+				"bgcolor":"84818E66",
+				"frameColor":"00000005",
+				"separatorColor":"ffffff20",
+				"titleColor":"ffffffb0",
+				"labelColor":"fffffff0"
+			},
+			"table-cells":[
+				{	"class":"RWDateTimeCell",
+					"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg"
+				},
+				{	"class":"RWNowPlayingCell",
+					"display":"first"
+				},
+				{	"class":"RWNowPlayingRatingCell",
+					"label":"Bewerte diesen Beitrag:",
+					"display":"last"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"aktuelle Blitzer",
+					"url":"http://www.radioarabella.de/blitzer"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"Arabella auf facebook",
+					"url":"http://m.facebook.com/radioarabellamuenchen"
+				},
+				{	"class":"RWWebLinkCell",
+					"title":"mehr auf RadioArabella.de",
+					"url":"http://www.radioarabella.de"
+				}
+			]
+		},{	"title":"Arabella-Party",
+			"subtitle":"Die größten Partyhits aller Zeiten",
+			"stream":"http://rs6.stream24.net:8100/stream",
+			"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg",
+			"bgimage":"http://appwerk.com/RadioWerk/ArabellaMUC/party/bg.jpg",
+			"bgimageBlur":{ "radius":1, "saturationDeltaFactor":1.0, "tintColor":"33333370" },
+			"table-cell-display":{
+				"bgcolor":"5A167E66",
+				"frameColor":"00000005",
+				"separatorColor":"ffffff20",
+				"titleColor":"ffffffb0",
+				"labelColor":"fffffff0"
+			},
+			"table-cells":[
+				{	"class":"RWDateTimeCell",
+					"icon":"http://appwerk.com/RadioWerk/ArabellaMUC/logo.jpg"
+				},
+				{	"class":"RWNowPlayingCell",
+					"display":"first"
+				},
+				{	"class":"RWNowPlayingRatingCell",
+					"label":"Bewerte diesen Beitrag:",
+					"display":"last"
+				},
+				{	"class":"RWWebLinkCell",
+					"display":"first",
+					"title":"aktuelle Blitzer",
+					"url":"http://www.radioarabella.de/blitzer"
+				},
+				{	"class":"RWWebLinkCell",
+					"display":"mid",
+					"title":"Arabella auf facebook",
+					"url":"http://m.facebook.com/radioarabellamuenchen"
+				},
+				{	"class":"RWWebLinkCell",
+					"display":"last",
+					"title":"mehr auf RadioArabella.de",
+					"url":"http://www.radioarabella.de"
+				}
+			]
+		}
+		
+	]
+}
